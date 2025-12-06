@@ -4,7 +4,7 @@
 &#xa0;
 </div>
 
-<h1 align="center">🔗 Legacy Integrator API | Middleware Fiscal</h1>
+<h1 align="center">🔗 Legacy Integrador API | Middleware Fiscal</h1>
 
 <p align="center">
   <a href="https://www.java.com/pt-BR/">
